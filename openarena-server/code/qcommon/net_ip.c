@@ -1356,7 +1356,7 @@ void NET_OpenIP( void ) {
 	port = net_port->integer;
 	port6 = net_port6->integer;
 
-	NET_GetLocalAddress();
+	// NET_GetLocalAddress();
 
 	// automatically scan for a valid port, so multiple
 	// dedicated servers can be started without requiring
