@@ -32,3 +32,4 @@ fi
 check_exists_and_create_symlink "unikraft"
 check_exists_and_create_symlink "libs/musl"
 check_exists_and_create_symlink "libs/lwip"
+check_exists_and_create_symlink "libs/zlib"
