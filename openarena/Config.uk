@@ -1,6 +1,6 @@
 # Config OpenArena Server application
 
-config APPOPENARENASERVER
+config APPOPENARENA
 bool "A server for OpenArena, a community-produced deathmatch FPS based of GPL idTech3 technology"
 default y
     select LIBPOSIX_EVENTFD
